@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T12:11:25.868Z" agent="5.0 (Windows)" etag="1jpLA9G_nFxT8MbcfPB0" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T13:20:07.888Z" agent="5.0 (Windows)" etag="IOd2X4CPw_IF2-Rzhw-d" version="14.4.4" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="3036" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3451" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -764,6 +764,36 @@
         </mxCell>
         <mxCell id="9Zyja6iba0x6Raa5amca-221" value="Maybe?" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;strokeWidth=3;fillColor=#6a00ff;fontFamily=Verdana;fontSize=12;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="650" width="69.87" height="42.88" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-222" value="OR65a" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1637.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-223" value="chronic cVA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1797.75" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-224" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1" source="9Zyja6iba0x6Raa5amca-18" target="9Zyja6iba0x6Raa5amca-223">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1441" y="1797.75" as="sourcePoint" />
+            <mxPoint x="1441" y="1717.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-225" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1" source="9Zyja6iba0x6Raa5amca-223" target="9Zyja6iba0x6Raa5amca-222">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1471" y="1807.75" as="sourcePoint" />
+            <mxPoint x="1471" y="1727.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-226" value="Liu, W. 2011" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1639" y="1687.75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-227" value="van der Goes van Naters 2007" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1717.75" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-228" value="Ronderos 2010" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1736.19" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zyja6iba0x6Raa5amca-229" value="Ejima 2007" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1753.94" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
